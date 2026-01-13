@@ -1,0 +1,5 @@
+Primeras notas sobre Git.
+
+- Git guarda historial, no solo archivos
+- Cada commit es una foto del proyecto
+- GitHub es el servidor remoto
